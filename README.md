@@ -14,6 +14,9 @@ Build it yourself
 Installation: Go to /dist
 ```sudo dpkg -i <built_package_name>.deb```
 
+Find it in your flavour of desktop environment:
+![image](https://github.com/user-attachments/assets/51c2fc03-9678-4bce-8dec-341bd5c35f3a)
+
 It's just configured to build to .deb as of this commit.
 
 Cheers, Inu
