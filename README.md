@@ -2,6 +2,12 @@ This repository is made for people who want to use Notion as a standalone app on
 All it is, is really just wrapping https://notion.so inside an electron wrapper.
 The code is 15 lines. That's all there is to it.
 
+Clone the repo
+```git clone https://github.com/0xInuarashi/notion-electron/```
+
+Install the dependencies
+```npm install```
+
 Build it yourself 
 ```npm run build```
 
